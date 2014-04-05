@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GN 2 DZ</string>
+
+    <!--  -->
+    <string name="action_listen_file">Listen to local file</string>
+    <string name="action_listen_deezer">Listen to Deezer file</string>
+    <string name="action_gracenote_convert">Recognize using GraceNote</string>
+    <string name="action_login">Log in Deezer</string>
+    <string name="action_logout">Log out Deezer</string>
+    <string name="action_add_to_favorites">Add to my Deezer Favorites</string>
+
+</resources>

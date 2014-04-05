@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.deezer.sample.gracenote.MainActivity" >
+
+    <item
+        android:id="@+id/action_listen_file"
+        android:icon="@drawable/ic_action_listen_file"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_listen_file"/>
+    <item
+        android:id="@+id/action_listen_deezer"
+        android:icon="@drawable/ic_action_listen_deezer"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_listen_deezer"/>
+    <item
+        android:id="@+id/action_gracenote_convert"
+        android:icon="@drawable/ic_action_convert_gracenote"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_gracenote_convert"/>
+    <item
+        android:id="@+id/action_add_favorites"
+        android:icon="@drawable/ic_action_favorites"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_add_to_favorites"/>
+
+</menu>
